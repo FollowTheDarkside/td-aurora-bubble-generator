@@ -8,7 +8,7 @@
 A repository for aurora bubble generator using [TouchDesigner](https://derivative.ca/).
 <br>
 <br>
-Demo video is ~~[here]()~~.
+Demo video is [here](https://youtu.be/TTrD35LSyw8).
 <br>
 <br>
 
